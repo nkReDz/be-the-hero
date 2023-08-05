@@ -1,0 +1,6 @@
+--------------------------------------------------------- HELP ---------------------------------------------------------
+
+
+Shift + Alt + (Seta para baixo) -> Duplica linha;
+
+CTRL + D -> Ao selecionar um texto e pressionar CTRL + D renomeia o próximo texto idêntico na mesma linha;
