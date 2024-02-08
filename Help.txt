@@ -1,0 +1,14 @@
+Ao abrir o projeto executar:
+
+----- Back -----
+
+cd backend
+npm start -> Inicia o projeto de backend
+
+----- Front -----
+
+cd frontend
+npm start -> Inicia o projeto de frontend
+
+
+Parei na Aula 4 aos 14:52 min

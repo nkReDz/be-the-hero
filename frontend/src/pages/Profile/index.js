@@ -72,7 +72,7 @@ export default function Profile() {
                         <p>{Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(incident.value)}</p>
 
                         {/* 
-                            Cuidado ao passar handleDeleteIncident(incident.id), sempre utilizar {() => },
+                            Cuidado ao passar onClick={handleDeleteIncident(incident.id)}, sempre utilizar {() => },
                                 pois sem isso, ao carregar a tela executa a função para todos, deletando os registros. */}
                         <button onClick={() => handleDeleteIncident(incident.id)} type='button'>
                             <FiTrash2 size={20} color='#FFF' />
